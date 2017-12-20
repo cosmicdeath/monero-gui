@@ -6,17 +6,17 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="52"/>
         <source>Add new entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη νέας καταχώρησης</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="61"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεύθυνση</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="71"/>
         <source>QRCODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός QR</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="93"/>
@@ -26,42 +26,42 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="102"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός πληρωμής &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="114"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικόλληση 64 δεκαεξαδικών χαρακτήρων</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="123"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="135"/>
         <source>Give this entry a name or description</source>
-        <translation type="unfinished"></translation>
+        <translation>Δώστε ενα όνομα ή μια περιγραφή σε αυτή την καταχώρηση</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="151"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="156"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Λάθος</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="159"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη διεύθυνση</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="163"/>
         <source>Can&apos;t create entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Can&apos;t Δημιουργία καταχώρησης</translation>
     </message>
 </context>
 <context>
@@ -69,12 +69,12 @@
     <message>
         <location filename="../components/AddressBookTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν άλλα αποτελέσματα</translation>
     </message>
     <message>
         <location filename="../components/AddressBookTable.qml" line="104"/>
         <source>Payment ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός πληρωμής</translation>
     </message>
 </context>
 <context>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="97"/>
         <source>Locked Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη προσβάσιμο υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="110"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="133"/>
         <source>Available Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμο υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="146"/>
@@ -105,12 +105,12 @@
     <message>
         <location filename="../components/DaemonConsole.qml" line="117"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <location filename="../components/DaemonConsole.qml" line="128"/>
         <source>command + enter (e.g help)</source>
-        <translation type="unfinished"></translation>
+        <translation>εντολή+enter (πχ help)</translation>
     </message>
 </context>
 <context>
@@ -118,17 +118,17 @@
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="93"/>
         <source>Starting Monero daemon in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Monero daemon σε 1% δευτερολεπτα</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="115"/>
         <source>Start daemon (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Έναρξη Daemon</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="132"/>
         <source>Use custom settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποίηση προσαρμοσμένων ρυθμίσεων</translation>
     </message>
 </context>
 <context>
@@ -136,12 +136,12 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="57"/>
         <source>Quick transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Γρήγορη μεταφορά</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="89"/>
         <source>SEND</source>
-        <translation type="unfinished"></translation>
+        <translation>ΑΠΟΣΤΟΛΗ</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="102"/>
@@ -154,22 +154,22 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν άλλα αποτελέσματα</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="137"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ημερομηνία</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="170"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="190"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποσό</translation>
     </message>
 </context>
 <context>
@@ -177,48 +177,48 @@
     <message>
         <location filename="../pages/History.qml" line="70"/>
         <source> selected: </source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλεγμένα</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="135"/>
         <source>Filter transaction history</source>
-        <translation type="unfinished"></translation>
+        <translation>Φιλτράρισμα ιστορίας συναλλαγών</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="183"/>
         <source>Type for incremental search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Πληκτρολογήστε για σταδιακή αναζήτηση...</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="276"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Φίλτρο</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="223"/>
         <source>Date from</source>
-        <translation type="unfinished"></translation>
+        <translation>Ημερομηνία από...</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="249"/>
         <location filename="../pages/History.qml" line="403"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέχρι</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="314"/>
         <source>Advanced filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>Προχωρημένο φιλτράρισμα</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="334"/>
         <source>Type of transaction</source>
-        <translation type="unfinished"></translation>
+        <translation>Είδος συναλλαγής</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="370"/>
         <source>Amount from</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποσό από</translation>
     </message>
 </context>
 <context>
@@ -226,73 +226,73 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="48"/>
         <source>Tx ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός συναλλαγής:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="49"/>
         <location filename="../components/HistoryTable.qml" line="203"/>
         <source>Payment ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κωδικός πληρωμής:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="50"/>
         <source>Tx key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλειδή συναλλαγής:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="51"/>
         <source>Tx note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σημείωμα συναλλαγής:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Destinations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προορισμοί:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="78"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υπάρχουν άλλα αποτελέσματα</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="110"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Λεπτομέρειες</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="251"/>
         <source>BlockHeight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ύψος μπλοκ</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="266"/>
         <source>(%1/10 confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1/10 επιβεβαιώσεις)</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="270"/>
         <source>UNCONFIRMED</source>
-        <translation type="unfinished"></translation>
+        <translation>ΑΝΕΠΙΒΕΒΑΙΩΤΗ</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="271"/>
         <source>PENDING</source>
-        <translation type="unfinished"></translation>
+        <translation>ΕΚΚΡΕΜΗΣ</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="300"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ημερομηνία</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="357"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποσό</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="392"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation>Προμήθεια</translation>
     </message>
 </context>
 <context>
@@ -300,22 +300,22 @@
     <message>
         <location filename="../LeftPanel.qml" line="132"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="177"/>
         <source>Unlocked balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσβάσιμο υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="279"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="329"/>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="330"/>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="353"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="93"/>
@@ -340,7 +340,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="304"/>
         <source>Address book</source>
-        <translation type="unfinished"></translation>
+        <translation>Βιβλίο διεθύνσεων</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="305"/>
@@ -355,7 +355,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="376"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation >Προχωρημένα</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="377"/>
@@ -375,12 +375,12 @@
     <message>
         <location filename="../LeftPanel.qml" line="422"/>
         <source>Check payment</source>
-        <translation type="unfinished"></translation>
+        <translation>Έλεγχος πληρωμής</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="446"/>
         <source>Sign/verify</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση/επιβεβαίωση</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="470"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="469"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις</translation>
     </message>
 </context>
 <context>
@@ -408,12 +408,12 @@
     <message>
         <location filename="../MiddlePanel.qml" line="46"/>
         <source>Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπόλοιπο</translation>
     </message>
     <message>
         <location filename="../MiddlePanel.qml" line="48"/>
         <source>Unlocked Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη προσβάσιμο υπόλοιπο</translation>
     </message>
 </context>
 <context>
@@ -426,12 +426,12 @@
     <message>
         <location filename="../pages/Mining.qml" line="80"/>
         <source>(only available for local daemons)</source>
-        <translation type="unfinished"></translation>
+        <translation>(διαθέσιμο μόνο για τοπικό daemon)</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
         <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάνωντας mining με τον υπολογιστή σας ενισχύετε το δίκτυο του Μονέρο. Όσο περισσοτεροι κάνουν mining, τόσο δυσκολότερο είναι να γίνει επίθεση στο δίκτυο, όσο μικρη κι αν ειναι η προσπάθεια, βοηθάει.&lt;br&gt; &lt;br&gt; Το mining επίσης δίνει μια μικρή πιθανότητα να κερδίσετε Μονέρο.Ο υπολογιστής σας θα δημιουργήσει hash για τη λύση του μπλοκ. Αν βρείτε κάποιο μπλοκ, θα πάρετε την αντίστοιχη αμοιβή. Καλή τύχη! </translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
@@ -441,52 +441,52 @@
     <message>
         <location filename="../pages/Mining.qml" line="104"/>
         <source>(optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>(προαιρετικό)</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="116"/>
         <source>Background mining (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mining στο παρασκήνιο</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="132"/>
         <source>Enable mining when running on battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση mining οταν λειτουργεί με μπαταρία</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="142"/>
         <source>Manage miner</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείρηση miner</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="151"/>
         <source>Start mining</source>
-        <translation type="unfinished"></translation>
+        <translation>Έναρξη miner</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="161"/>
         <source>Error starting mining</source>
-        <translation type="unfinished"></translation>
+        <translation>Λάθος στην εκκίνηση του miner</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="162"/>
         <source>Couldn&apos;t start mining.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η έναρξη του miner.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="164"/>
         <source>Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Το mining είναι διαθέσιμο μόνο σε local daemon. Τρέξτε ενα local daemon για να έχετε τη δυνατότητα να κάνετε mining.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="176"/>
         <source>Stop mining</source>
-        <translation type="unfinished"></translation>
+        <translation>Τερματισμός mining</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="192"/>
         <source>Status: not mining</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση: όχι mining</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="203"/>
@@ -496,12 +496,12 @@
     <message>
         <location filename="../pages/Mining.qml" line="206"/>
         <source>Not mining</source>
-        <translation type="unfinished"></translation>
+        <translation>όχι mining</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="208"/>
         <source>Status: </source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση: </translation>
     </message>
 </context>
 <context>
@@ -509,7 +509,7 @@
     <message>
         <location filename="../components/MobileHeader.qml" line="94"/>
         <source>Unlocked Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσβάσιμο υπόλοιπο</translation>
     </message>
 </context>
 <context>
@@ -517,32 +517,32 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="53"/>
         <source>Synchronizing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Συγχρονισμός</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="54"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνδεδεμένος</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="57"/>
         <source>Wrong version</source>
-        <translation type="unfinished"></translation>
+        <translation>Λάθος έκδοση</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="59"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσυνδεδεμένος</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="60"/>
         <source>Invalid connection status</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη κατάσταση σύνδεσης</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="85"/>
         <source>Network status</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση δικτύου</translation>
     </message>
 </context>
 <context>
@@ -550,17 +550,17 @@
     <message>
         <location filename="../components/PasswordDialog.qml" line="79"/>
         <source>Please enter wallet password</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ εισάγετε τον κωδικό πρόσβασης του πορτοφολιού</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="79"/>
         <source>Please enter wallet password for:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ εισάγετε τον κωδικό πρόσβασης του πορτοφολιού:&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="156"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="171"/>
@@ -573,17 +573,17 @@
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="100"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Χαμηλό</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="109"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεσαίο</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="118"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>Υψηλό</translation>
     </message>
 </context>
 <context>
@@ -591,17 +591,17 @@
     <message>
         <location filename="../components/ProgressBar.qml" line="43"/>
         <source>Establishing connection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία σύνδεσης...</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="57"/>
         <source>Blocks remaining: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Μπλοκ που απομένουν: %1</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="100"/>
         <source>Synchronizing blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Συγχρονισμός μπλοκ</translation>
     </message>
 </context>
 <context>
@@ -609,12 +609,12 @@
     <message>
         <location filename="../pages/Receive.qml" line="64"/>
         <source>Invalid payment ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μη έγκυρος κωδικός πληρωμής</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="107"/>
         <source>WARNING: no connection to daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ΠΡΟΕΙΔΟΠΟΙΗΣΗ: δεν υπάρχει σύνδεση στο daemon</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="129"/>
@@ -624,67 +624,67 @@
     <message>
         <location filename="../pages/Receive.qml" line="136"/>
         <source>%2 confirmations: %3 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 επιβεβαιώσεις: %3 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="138"/>
         <source>1 confirmation: %2 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>1 επιβεβαίωση: %2 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="146"/>
         <source>No transaction found yet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Καμμία συναλλαγή δε βρέθηκε ακόμα...</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="150"/>
         <source>Transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation>Η συναλλαγή βρέθηκε</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="150"/>
         <source>%1 transactions found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 συναλλαγές βρέθηκαν</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="156"/>
         <source> with more money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>με περισσότερα χρήματα</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="158"/>
         <source> with not enough money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>με όχι αρκετά χρήματα</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="190"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεύθυνση</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="197"/>
         <source>ReadOnly wallet address displayed here</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνο για ανάγνωση διεύθυνση πορτοφολιού εμφανίζεται εδώ</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="230"/>
         <source>16 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation>16 δεκαεξαδικοί χαρακτήρες</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="266"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκκαθάριση</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="276"/>
         <source>Integrated address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενσωματωμένη διεύθυνση</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="317"/>
         <source>Amount to receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποσό για λήψη</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="338"/>
@@ -694,7 +694,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="343"/>
         <source>Tracking payments</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακολούθηση πληρωμών</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="344"/>
