@@ -36,7 +36,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="123"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation>Περιγραφή &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</translation>
+        <translation>Περιγραφή &lt;font size=&apos;2&apos;&gt;(Προαιρετικά)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="135"/>
